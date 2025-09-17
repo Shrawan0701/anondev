@@ -1,9 +1,0 @@
-com\example\itvoice\model\Comment.class
-com\example\itvoice\repository\PostRepository.class
-com\example\itvoice\ItVoiceApplication.class
-com\example\itvoice\service\CommentService.class
-com\example\itvoice\model\Post.class
-com\example\itvoice\service\PostService.class
-com\example\itvoice\repository\CommentRepository.class
-com\example\itvoice\controller\CommentController.class
-com\example\itvoice\controller\PostController.class
